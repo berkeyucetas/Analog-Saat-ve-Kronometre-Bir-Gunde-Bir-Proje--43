@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog Saat ve Kronometre.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog_Saat_ve_Kronometre.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog_Saat_ve_Kronometre.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog Saat ve Kronometre.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog Saat ve Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\bin\Debug\Analog Saat ve Kronometre.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\bin\Debug\Analog Saat ve Kronometre.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\bin\Debug\Analog Saat ve Kronometre.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog Saat ve Kronometre.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Analog Saat ve Kronometre\Analog Saat ve Kronometre\obj\Debug\Analog Saat ve Kronometre.pdb
